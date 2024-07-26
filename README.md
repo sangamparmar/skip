@@ -1,2 +1,2 @@
 # skip
-Sample REPOSITORY
+Sample REPOSITORY.
